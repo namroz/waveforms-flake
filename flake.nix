@@ -49,7 +49,7 @@
         nixosModule = { pkgs, ... }: {
           nixpkgs.overlays = [ self.overlay ];
           services.udev.packages = [ pkgs.adept2-runtime ];
-          environment.systemPackages = [ pkgs.waveforms ];
+          # environment.systemPackages = [ pkgs.waveforms ];
         };
 
         devShells = eachSystem (system:
