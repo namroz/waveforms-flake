@@ -12,7 +12,7 @@ permissions so that `plugdev` group users are allowed to access.
 
 ```nix
 {
-  inputs.waveforms.url = "github:liff/waveforms-flake";
+  inputs.waveforms.url = "github:namroz/waveforms-flake";
 
   outputs = { self, nixpkgs, waveforms }: {
     # replace 'joes-desktop' with your hostname here.
