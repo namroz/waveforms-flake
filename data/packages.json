@@ -4,7 +4,7 @@
         "systems": {
             "x86_64-linux": {
                 "url": "https://digilent.s3.us-west-2.amazonaws.com/Software/Adept2+Runtime/2.27.9/digilent.adept.runtime_2.27.9-i386.deb",
-                "hash": "sha256-c8a2ccf2d9ea1ffa0f3a4ae4ed2ff690a0687ff83382b62dae30fa13198bbf53"
+                "hash": "sha256-yKLM8tnqH/oPOkrk7S/2kKBof/gzgrYtrjD6ExmLv1M="
             },
             "i686-linux": {
                 "url": "https://files.digilent.com/Software/Adept2%20Runtime/2.27.9/digilent.adept.runtime_2.27.9-i386.deb",
@@ -25,7 +25,7 @@
         "systems": {
             "x86_64-linux": {
                 "url": "https://files.digilent.com/Software/Waveforms/3.24.3/digilent.waveforms_3.24.3_amd64.deb",
-                "hash": "sha256-15q469f1qa5fw5mf4bp7q0cp12ll3sbv39hz3z84gpdnfvwzc9bw"
+                "hash": "sha256-fCX2+Xa23UfQHx+msZcelIpwGcDnLuJq4a4oHFwyBJc="
             },
             "i686-linux": {
                 "url": "https://files.digilent.com/Software/Waveforms2015/3.24.2/digilent.waveforms_3.24.2_i386.deb",
