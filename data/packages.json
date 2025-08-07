@@ -4,7 +4,7 @@
         "systems": {
             "x86_64-linux": {
                 "url": "https://digilent.s3.us-west-2.amazonaws.com/Software/Adept2+Runtime/2.27.9/digilent.adept.runtime_2.27.9-i386.deb",
-                "hash": "sha256-yKLM8tnqH/oPOkrk7S/2kKBof/gzgrYtrjD6ExmLv1M="
+                "hash": "sha256-mEydJgHJve+zLjqjDxsYfcvZzVHmeSVRVsfn+9iA5FQ="
             },
             "i686-linux": {
                 "url": "https://files.digilent.com/Software/Adept2%20Runtime/2.27.9/digilent.adept.runtime_2.27.9-i386.deb",
